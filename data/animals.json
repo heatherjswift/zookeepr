@@ -108,6 +108,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Parry",
+      "species": "Platypus",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
